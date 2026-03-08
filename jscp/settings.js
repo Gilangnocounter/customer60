@@ -35,7 +35,7 @@ let settings = {
         },
         { 
             image: './image/photos/b4.png', 
-            content: 'As long as you’re smiling with me, I’m happy. Stay happy with me, my love❤️' 
+            content: 'Stay smiling and stay with me❤️' 
         },
     
         // Lembar 3
@@ -44,7 +44,7 @@ let settings = {
         },
         { 
             image: './image/photos/b6.png', 
-            content: 'Stay smiling and stay with me❤️' 
+            content: 'As long as you’re smiling with me, I’m happy. Stay happy with me, my love❤️' 
         }, 
 
         // // Lembar 4
@@ -397,7 +397,7 @@ function initializeDefaultSettings() {
             },
             { 
                 image: './image/photos/b4.png', 
-                content: 'As long as you’re smiling with me, I’m happy. Stay happy with me, my love❤️' 
+                content: 'Stay smiling and stay with me❤️' 
             },
         
             // Lembar 3
@@ -406,7 +406,7 @@ function initializeDefaultSettings() {
             },
             { 
                 image: './image/photos/b6.png', 
-                content: 'Stay smiling and stay with me❤️' 
+                content: 'As long as you’re smiling with me, I’m happy. Stay happy with me, my love❤️' 
             }, 
         
             // // Lembar 4
